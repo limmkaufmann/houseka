@@ -2,6 +2,6 @@
 "name": "houseka",
 "compatibility_date": "2025-04-14",
 "assets": {
-"directory": "./dist"
+"directory": "./build"
 	    }
 }
